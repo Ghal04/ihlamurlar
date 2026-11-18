@@ -1,17 +1,27 @@
 {
  "id": "community.ihlamurlar.kanald",
- "version": "1.1.0",
+ "version": "2.0.0",
  "name": "مسلسلات تركية رسمية",
  "description": "مسلسلات تركية كاملة بالصوت الأصلي من القنوات الرسمية على يوتيوب: سنوات الضياع، عليا",
  "resources": [
   "catalog",
-  "meta"
+  {
+   "name": "stream",
+   "types": [
+    "series"
+   ],
+   "idPrefixes": [
+    "tt0489902",
+    "tt0424596"
+   ]
+  }
  ],
  "types": [
   "series"
  ],
  "idPrefixes": [
-  "trk_"
+  "tt0489902",
+  "tt0424596"
  ],
  "catalogs": [
   {
