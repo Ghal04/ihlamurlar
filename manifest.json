@@ -1,0 +1,24 @@
+{
+ "id": "community.ihlamurlar.kanald",
+ "version": "1.0.0",
+ "name": "Ihlamurlar Altında (Kanal D)",
+ "description": "سنوات الضياع - الحلقات الـ80 كاملة بالصوت التركي من قناة Kanal D الرسمية على يوتيوب",
+ "resources": [
+  "catalog",
+  "meta"
+ ],
+ "types": [
+  "series"
+ ],
+ "idPrefixes": [
+  "ihl"
+ ],
+ "catalogs": [
+  {
+   "type": "series",
+   "id": "ihl_turkish",
+   "name": "مسلسلات تركية"
+  }
+ ],
+ "logo": "https://i.ytimg.com/vi/cygH4229GL4/hqdefault.jpg"
+}
